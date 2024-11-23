@@ -1,0 +1,5 @@
+- 👋 Hi, I’m NxLL
+- 👀 I’m interested in Tech, Anime, Music, Cars & Bikes, Travelling
+- 🌱 I’m currently learning C/C++, Js, Html & Css
+- 💞️ I’m looking to collaborate on Small Projects For college.
+- 📫 How to reach me - ig @siddhxrtha_15
